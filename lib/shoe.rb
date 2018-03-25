@@ -15,5 +15,4 @@ class Shoe
   end
 end
 
-nike = Shoe.new
-
+Shoe = Shoe.new
