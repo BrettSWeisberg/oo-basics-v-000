@@ -14,3 +14,6 @@ class Shoe
 
   end
 end
+
+nike = shoe.new
+
