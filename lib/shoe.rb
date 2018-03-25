@@ -11,7 +11,7 @@
 
     def cobble
       puts "Your shoe is as good as new!"
-      attr_accessor condition = "new"
+      attr_accessor :condition = "new"
     end
 
   end
