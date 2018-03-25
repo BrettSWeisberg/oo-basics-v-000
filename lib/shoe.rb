@@ -16,5 +16,4 @@ class Shoe
 end
 
 nike = Shoe.new
-nike.condition
 
