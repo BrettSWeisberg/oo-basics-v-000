@@ -9,7 +9,7 @@ class Shoe
     @brand = brand
   end
 
-  def coble
+  def cobble
     puts "Flipping the page...wow, you read fast!"
   end
 
